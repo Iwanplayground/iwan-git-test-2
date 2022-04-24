@@ -1,2 +1,4 @@
-bambang = 2*('ini')
+
+bambang = 2*('itu')
 print(bambang)
+
